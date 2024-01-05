@@ -1,5 +1,8 @@
 ![image](https://github.com/kangmg/coordinates_generater/assets/59556369/4b9979ae-49b0-4d2c-9c27-acd790fe4e5e)
 
+## 사용방법
+디렉토리 내에 molecule.sdf란 이름의 파일이 존재해야 합니다.
+
 ## 파일 설명
 * rvmv.py     : rovolution - inter-fragment move를 수행하고 각 좌표를 coordinates 폴더에 저장함
 * dihedral.py : dihedral angle에 대해 rotation을 수행하고 각 xyz좌표를 coordinates 폴더에 저장함
